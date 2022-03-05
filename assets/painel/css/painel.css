@@ -1,0 +1,167 @@
+.btn { border-radius: 0px !important; }
+
+.ci-label { font-weight: lighter; }
+
+textarea { resize: none; }
+
+.errors-messages {
+	display: block;
+	margin-top: 2%;
+	margin-bottom: 0%;
+	font-style: italic;
+	font-size: 0.96em;
+	color: #b30000;
+}
+
+.no-results {
+	margin-top: 1.6%;
+}
+
+#categorias-listar {
+	margin-top: 2%;
+}
+
+#categorias-listar thead tr th {
+	text-align: center;
+	width: 25%;
+}
+
+#categorias-listar tbody tr td {
+	text-align: center;
+}
+
+.ci-radio {
+	display: inline-block;
+	margin-right: 0.48%;
+}
+
+#midias-uri {
+	display: block;
+	height: auto;
+	width: auto;
+	max-height: 48%;
+	max-width: 48%;
+	margin-top: 2.4%;
+	margin-bottom: 4%;
+	padding: 0.28%;
+	border: solid 1px #dedede;
+	border-radius: 2px;
+}
+
+.usuarios-avatar-src {
+	display: block;
+	height: auto;
+	width: auto;
+	max-height: 32%;
+	max-width: 32%;
+	margin-top: 2.4%;
+	margin-bottom: 4%;
+	padding: 0.3%;
+	border: solid 1px #dedede;
+	border-radius: 2px;
+}
+
+
+td#midias-avatar {
+	width: 30%;
+}
+
+td#midias-type {
+	width: 14%;
+}
+
+td#midias-author {
+	width: 16%;
+}
+
+td#midias-acoes {
+	width: 40%;
+}
+
+.midias-uri-listar {
+	display: block;
+	height: auto;
+	width: auto;
+	max-height: 48%;
+	max-width: 48%;
+	margin-top: 2.4%;
+	margin-bottom: 4%;
+	padding: 0.28%;
+	border: solid 1px #dedede;
+	border-radius: 2px;
+}
+
+.visualizar-midias {
+	display: block;
+	margin: 0 auto;
+	height: auto;
+	width: auto;
+	max-height: 80%;
+	max-width: 80%;
+	margin-top: 2.4%;
+	margin-bottom: 4%;
+	padding: 0.28%;
+	border: solid 1px #dedede;
+	border-radius: 2px;
+}
+
+#listar-paginas thead tr th {
+	text-align: center;
+}
+
+#listar-paginas tbody tr td {
+	text-align: center;
+}
+
+#sortable { list-style-type: none; display: block; padding: 0;}
+
+#sortable li {
+	display: block;
+	background-color: #111;
+	color:  #a6a6a6;
+	cursor: pointer;
+	margin:  6px 0px 6px 0px;
+	padding: 10px;
+	border: solid 1px #111;
+}
+
+#listar-posts thead tr th {
+	text-align: center;
+}
+
+#listar-posts tbody tr td {
+	text-align: center;
+}
+
+.optional {
+	font-style: italic;
+	color: #b30000;
+}
+
+#listar-configuracoes thead tr th {
+	text-align: center;
+}
+
+#listar-configuracoes tbody tr td {
+	text-align: center;
+}
+
+#listar-auditoria thead tr th {
+	text-align: center;
+}
+
+#listar-auditoria tbody tr td {
+	text-align: center;
+}
+
+#listar-usuarios thead tr th {
+	text-align: center;
+}
+
+#listar-usuarios tbody tr td {
+	text-align: center;
+}
+
+#listar-usuarios thead tr th#acoes {
+	width: 36%;
+}

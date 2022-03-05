@@ -1,0 +1,18 @@
+body { background-color: #111; }
+
+#painel-usuarios-login {
+	display: block;
+	background-color: #fff;
+	margin-top: 14%;
+	padding: 3.2% 3.2% 2.2% 3.2%;
+}
+
+.clear { display: block; clear: both; }
+
+.errors-messages {
+	display: block;
+	margin-bottom: 2.8%;
+	font-style: italic;
+	font-size: 0.82em;
+	color: #b30000;
+}

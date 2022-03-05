@@ -1,0 +1,7 @@
+{
+	"require": {
+		"cocur/slugify": "4.0.0",
+		"jdorn/sql-formatter": "^1.2",
+		"matomo/device-detector": "^4.3"
+	}
+}
